@@ -11,7 +11,7 @@
 
 | Name | Role | GitHub |
 |------|------|--------|
-| 김도현 | Front-End Developer | [@jjjuni](https://github.com/jjjuni) |
+| 이준희 | Front-End Developer | [@jjjuni](https://github.com/jjjuni) |
 
 ### 🛠️ Back-End
 
