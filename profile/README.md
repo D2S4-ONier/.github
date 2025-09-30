@@ -1,4 +1,4 @@
-<img width="2169" height="1215" alt="image" src="https://github.com/user-attachments/assets/00c61702-3646-43c5-b245-4ce117b0deb5" />🌱 서경대학교 교내 해커톤 🌱  
+🌱 서경대학교 교내 해커톤 🌱  
 
 - 🧾 **프로젝트명**: ONier - 시각 장애인을 위한 확장 프로그램
 - ⏳ **진행 기간**: 2025.09.12 ~ 2025.09.14  
